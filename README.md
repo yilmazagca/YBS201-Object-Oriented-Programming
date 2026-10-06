@@ -1,15 +1,22 @@
-# 🐍 Nesne Yönelimli Programlama (Python) 
+### Ders Kodu: YBS201
+### Ders Adı: Nesne Yönelimli Programlama (Object Oriented Programming)
 
-**Bölüm:** Yönetim Bilişim Sistemleri  
+**Bölüm:** Yönetim Bilişim Sistemleri
+
 **Ders Sorumlusu:** Dr. Öğr. Üyesi Yılmaz AĞCA
-**Dönem:** 2026-2027 Güz  
 
-## 📖 Dersin Amacı
+**Dönem:** 2026-2027 Güz
+
+**Sınıf:** 2
+
+**Yarıyıl:** 3
+
+### Dersin Amacı
 Bu ders, öğrencilere Nesne Yönelimli Programlama (OOP) paradigmalarını Python dili üzerinden uygulamalı olarak öğretmeyi amaçlamaktadır. Öğrenciler dönem sonunda kendi nesne yönelimli projelerini mimari standartlara uygun şekilde tasarlayıp geliştirebilecek seviyeye geleceklerdir.
 
 ---
 
-## 🗓️ Haftalık Ders Planı
+### 🗓️ Haftalık Ders Planı
 
 | Hafta | Konu Başlığı | İlgili Materyal / Notlar | Görev / Ödev |
 | :---: | :--- | :--- | :--- |
@@ -30,13 +37,13 @@ Bu ders, öğrencilere Nesne Yönelimli Programlama (OOP) paradigmalarını Pyth
 
 ---
 
-## 📚 Kaynaklar ve Geliştirme Ortamı
+### 📚 Kaynaklar ve Geliştirme Ortamı
 * **Programlama Dili:** Python 3.10+
 * **Editör / IDE:** [Visual Studio Code](https://code.visualstudio.com/download?_exp_download=fb315fc982) veya [Anaconda](https://www.anaconda.com/download)
 * **Ana Kaynak:** [Python Resmi Dokümantasyonu](https://docs.python.org/3/)
 * **Versiyon Kontrolü:** Git ve GitHub
 
-## ⚖️ Değerlendirme Kriterleri
+### ⚖️ Değerlendirme Kriterleri
 * **Ara Sınav:** %30
 * **Mini Projeler / Ödevler:** %20
 * **Dönem Sonu Sınavı / Projesi:** %50
